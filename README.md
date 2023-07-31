@@ -1,4 +1,4 @@
-#Contact Us API
+# Contact Us API
 The Contact Us API is a simple Node.js application that provides an endpoint to submit contact form data and sends the information via email using Gmail SMTP as the email transport.
 
 ##Getting Started
